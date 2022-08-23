@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "exomePeak2"]
+	path = exomePeak2
+	url = https://github.com/zw-xjtlu/exomepeak2
+	shallow = true
+	registered = true
